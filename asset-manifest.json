@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animation/static/css/main.4ddeced5.css",
+    "main.js": "/animation/static/js/main.5664feda.js",
+    "index.html": "/animation/index.html",
+    "main.4ddeced5.css.map": "/animation/static/css/main.4ddeced5.css.map",
+    "main.5664feda.js.map": "/animation/static/js/main.5664feda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddeced5.css",
+    "static/js/main.5664feda.js"
+  ]
+}
